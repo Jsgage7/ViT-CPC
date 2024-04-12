@@ -1,0 +1,14 @@
+__pycache__
+data/*
+logs/*
+environment.sh
+*.pth
+*.html
+test_batch
+data_batch*
+batches*
+*.gz
+checkpoints/*
+.vscode
+*.tar
+

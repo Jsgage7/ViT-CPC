@@ -1,0 +1,12 @@
+name: cs7643-cpc
+channels:
+  - defaults
+dependencies:
+  - python==3.10.10
+  - matplotlib
+  - tqdm
+  - jupyter
+  - pip
+  # - pip:
+  #     - torch
+  #     - torchvision
